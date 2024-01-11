@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13370436&assignment_repo_type=AssignmentRepo)
 # Git Practice Exercise: Collaborative Text Editing with Conflict Resolution
 
 In this practice exercise, you will simulate a collaborative text editing project involving three students: Student 1, Student 2, and Student 3. You'll work through various Git actions using text files and focus on resolving conflicts that arise due to newer changes being pushed while pull requests are open. This exercise will guide you through the steps of conflict resolution in Git.
